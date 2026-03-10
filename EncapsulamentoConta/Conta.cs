@@ -8,9 +8,45 @@ namespace EncapsulamentoConta
     public class Conta
     {
         //declaração de atributos
-        public int numero;
-        public string titular;
-        public double saldo;
+        private int numero;
+        private string? titular;
+        private double saldo;
+
+        public int Numero //propriedade ; por isso maiusculo
+        {
+            set
+            {//value significa qualquer tipo 
+                this.numero = value;
+            }
+            get
+            {
+                return this.numero;
+            }
+        }
+        public string? Titular
+        {
+            get
+            {
+                return this.titular;
+            }
+            set
+            {
+                this.numero = value;
+            }
+        }
+        public double Saldo 
+        {
+            set
+            {
+                this.saldo = value;
+            }
+            get 
+            {
+                return this.saldo;
+            }
+        }
+
+
 
         //declaração de funções/métodos
         public void Sacar(double valorSacar){
