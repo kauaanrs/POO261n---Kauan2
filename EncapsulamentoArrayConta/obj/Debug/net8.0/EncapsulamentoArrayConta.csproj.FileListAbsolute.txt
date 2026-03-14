@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.AssemblyInfo.cs
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.sourcelink.json
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\bin\Debug\net8.0\EncapsulamentoArrayConta.exe
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\bin\Debug\net8.0\EncapsulamentoArrayConta.deps.json
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\bin\Debug\net8.0\EncapsulamentoArrayConta.runtimeconfig.json
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\bin\Debug\net8.0\EncapsulamentoArrayConta.dll
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\bin\Debug\net8.0\EncapsulamentoArrayConta.pdb
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.dll
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\refint\EncapsulamentoArrayConta.dll
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.pdb
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\EncapsulamentoArrayConta.genruntimeconfig.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\EncapsulamentoArrayConta\obj\Debug\net8.0\ref\EncapsulamentoArrayConta.dll
