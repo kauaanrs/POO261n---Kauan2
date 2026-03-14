@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aluno\\Downloads\\NX7PFVMC7D2WK44AHPMU7UBAN4B7QA\\POO261n\\ClasseConta\\ClasseConta.csproj",
+      "projectUniqueName": "C:\\Users\\aluno\\Documents\\POO261n---Kauan2\\ClasseConta\\ClasseConta.csproj",
       "projectName": "ClasseConta",
-      "projectPath": "C:\\Users\\aluno\\Downloads\\NX7PFVMC7D2WK44AHPMU7UBAN4B7QA\\POO261n\\ClasseConta\\ClasseConta.csproj",
+      "projectPath": "C:\\Users\\aluno\\Documents\\POO261n---Kauan2\\ClasseConta\\ClasseConta.csproj",
       "packagesPath": "C:\\Users\\aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aluno\\Downloads\\NX7PFVMC7D2WK44AHPMU7UBAN4B7QA\\POO261n\\ClasseConta\\obj\\",
+      "outputPath": "C:\\Users\\aluno\\Documents\\POO261n---Kauan2\\ClasseConta\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aluno\\AppData\\Roaming\\NuGet\\NuGet.Config"
