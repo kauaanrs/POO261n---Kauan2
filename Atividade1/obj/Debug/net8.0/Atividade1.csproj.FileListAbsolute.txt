@@ -1,0 +1,15 @@
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.AssemblyInfoInputs.cache
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.AssemblyInfo.cs
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.sourcelink.json
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\bin\Debug\net8.0\Atividade1.exe
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\bin\Debug\net8.0\Atividade1.deps.json
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\bin\Debug\net8.0\Atividade1.runtimeconfig.json
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\bin\Debug\net8.0\Atividade1.dll
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\bin\Debug\net8.0\Atividade1.pdb
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.dll
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\refint\Atividade1.dll
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.pdb
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\Atividade1.genruntimeconfig.cache
+C:\Users\Kauaa\Documents\POO\POO261n---Kauan2\Atividade1\obj\Debug\net8.0\ref\Atividade1.dll

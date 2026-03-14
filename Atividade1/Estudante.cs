@@ -1,6 +1,7 @@
 using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Net;
 using System.Threading.Tasks;
 
 namespace Atividade1
@@ -20,16 +21,16 @@ namespace Atividade1
             }
             get
             {
-                return this.nome.ToUpper;
+                return this.nome.ToUpper();
             }
         }
 
-        public double media
+        public double Media
         {
             set
             {
                 if (media < 0 || media > 10)
-                    Console.WriteLine("Valor inválido para média !");
+                    break;
                 else
                     this.media = value;
             }
@@ -43,16 +44,22 @@ namespace Atividade1
         //Funções 
         public void MostrarAtributos()
         {
-            Console.WriteLine("Nome do Aluno: " + nome + "\tMédia: " + media);
+            Console.WriteLine("Nome do Aluno: " + Nome + "\tMédia: " + Media);
         }
 
-        public bool EstaAprovado(media)
+        public bool EstaAprovado()
         {
-            if (media < 6)
-                return false;
+            if (Media >= 6 && Media <= 10)
+                return true;
 
             else
-                return true;
+                return false;
+        }
+
+        public void ExibirInformacoes()
+        {
+            string status = (EstaAprovado()) ? "Aprovado" : "Reprovado";
+            Console.WriteLine("Status: " + status);
         }
     }
 }
