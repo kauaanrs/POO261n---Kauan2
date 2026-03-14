@@ -8,7 +8,7 @@ namespace Atividade1
 {
     public class Estudante
     {
-        private string? nome;
+        private string? nome = "";
 
         private double media; 
 
@@ -29,11 +29,8 @@ namespace Atividade1
         {
             set
             {
-                if (media < 0 || media > 10)
-                {
+                if (value < 0 || value > 10)
                     Console.WriteLine("Valor inválido para média !");
-                }
-                    
                 else
                     this.media = value;
             }
