@@ -30,7 +30,10 @@ namespace Atividade1
             set
             {
                 if (media < 0 || media > 10)
-                    break;
+                {
+                    Console.WriteLine("Valor inválido para média !");
+                }
+                    
                 else
                     this.media = value;
             }
