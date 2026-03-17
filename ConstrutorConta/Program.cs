@@ -8,3 +8,4 @@ c2.MostrarAtributos(); //chamada do construtor com 1 parametro
 
 Conta c3 = new Conta("Ana", 100);
 c3.MostrarAtributos();
+Console.WriteLine("Quantidade: " + Conta.Contador);
