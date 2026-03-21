@@ -1,0 +1,5 @@
+C:\Users\aluno\Documents\POO261n---Kauan2\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\POO261n---Kauan2\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.AssemblyInfo.cs
+C:\Users\aluno\Documents\POO261n---Kauan2\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\ConstrutorAluno\obj\Debug\net8.0\ConstrutorAluno.sourcelink.json
