@@ -7,29 +7,37 @@ namespace ConstrutorAluno
 {
     public class Aluno
     {
-        public string? nome;
+        private string? nome;
         private static int contador;
-        public long ra;
-        private long NovoRa;
+         public static long RaFixo;
+        private long ra;
         static Aluno()
         {
-            ra = 1570482421000;
+            RaFixo = 1570482421000;
         }
 
-
-
-
-
-
-
-
-
-
-        public void MostrarAluno()
+        public static int Contador
         {
-            Console.WriteLine("Ra: "+ ra);
+            get
+            {
+                return contador;
+            }
+        }
+        public Aluno(string? nome)
+        {
+            this.nome = nome;
+            contador++;
+            ra = RaFixo + contador;
+        }
+        public string? Nome{
+            set
+            {
+                this.nome = value;
+            }
+        }
+        public void MostrarAtributos()
+        {
+            Console.WriteLine($"Nome: {nome} \tRa: {ra}");
         }
     }
-
-
 }
