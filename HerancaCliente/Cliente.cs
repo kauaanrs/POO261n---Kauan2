@@ -9,7 +9,7 @@ namespace HerancaCliente
     {
         protected int codigo;
         protected string? nome;
-        private string endereco;
+        protected string endereco;
         public string Endereco
         {
             get { return endereco; }
@@ -22,10 +22,9 @@ namespace HerancaCliente
             set { codigo = value; }
         }
         public string? Nome
+        {
             get { return nome; }
             set { nome = value; }
         }
-        
-        
     }
 }
