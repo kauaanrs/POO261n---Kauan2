@@ -26,5 +26,10 @@ namespace HerancaCliente
             get { return nome; }
             set { nome = value; }
         }
+
+        public virtual void MostrarAtributos()
+        {
+            Console.WriteLine("");
+        }
     }
 }
