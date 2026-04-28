@@ -14,6 +14,11 @@ namespace AbstratoCliente
             Cnpj = Cnpj; 
         }
 
+        public override void VerificarIdade()
+        {
+            if (Idade >= 50)
+                Console.WriteLine("CJ - Idade validada");
+        }
     }
     
 }

@@ -40,6 +40,10 @@ namespace AbstratoCliente
             Nome = nome; 
             Idade = idade; 
         }
-        
+        public abstract void VerificarIdade(); 
+        public virtual void Mostrar()
+        {
+            Console.WriteLine("Nome: " + Nome + "\tIdade: "+ Idade);
+        }
     }
 }

@@ -13,6 +13,15 @@ namespace AbstratoCliente
         {
             Rg = rg; 
         }
-
+        public override void VerificarIdade()
+        {
+            if (Idade < 50)
+                Console.WriteLine("CF - Idade validada");
+        }
+        public virtual void Mostrar()
+        {
+            base.Mostrar();
+            Console.WriteLine("RG: "+ Rg);
+        }
     }
 }
