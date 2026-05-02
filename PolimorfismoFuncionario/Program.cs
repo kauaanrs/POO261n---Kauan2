@@ -21,5 +21,5 @@ gerenciador.TotalizadorBonificacao(s);
 gerenciador.TotalizadorBonificacao(g); 
 gerenciador.TotalizadorBonificacao(d);
 
-
-Console.WriteLine($"Total de bonificacoes: {gerenciador.TotalBonificacao():c}");
+Console.WriteLine();
+Console.WriteLine($"Total de bonificações: {gerenciador.TotalBonificacao:c}");

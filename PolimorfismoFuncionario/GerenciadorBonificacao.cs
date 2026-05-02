@@ -10,8 +10,14 @@ namespace PolimorfismoFuncionario
         private double totalBonificacao;
         public double TotalBonificacao
         {
-            get { return totalBonificacao; }
-            set { totalBonificacao = value; }
+            get
+            { 
+                return totalBonificacao; 
+            }
+            set
+            {
+                totalBonificacao = value;     
+            }
         }
         
         public void TotalizadorBonificacao(Funcionario funcionario)
