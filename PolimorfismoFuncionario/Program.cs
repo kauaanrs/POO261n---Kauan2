@@ -2,6 +2,8 @@
 
 Funcionario f = new Funcionario(1000);
 Console.WriteLine($"Funcionario {f.CalcularBonificacao():c}");
+Funcionario f2 = new Funcionario(2000);
+Console.WriteLine($"Funcionario {f2.CalcularBonificacao():c}");
 
 Secretario s = new Secretario(1000);
 Console.WriteLine($"Secretario {s.CalcularBonificacao():c}");
@@ -16,7 +18,8 @@ Console.WriteLine($"Diretor {d.CalcularBonificacao():c}");
 
 GerenciadorBonificacao gerenciador = new GerenciadorBonificacao();
 
-gerenciador.TotalizadorBonificacao(f); 
+gerenciador.TotalizadorBonificacao(f);
+gerenciador.TotalizadorBonificacao(f2); 
 gerenciador.TotalizadorBonificacao(s); 
 gerenciador.TotalizadorBonificacao(g); 
 gerenciador.TotalizadorBonificacao(d);
