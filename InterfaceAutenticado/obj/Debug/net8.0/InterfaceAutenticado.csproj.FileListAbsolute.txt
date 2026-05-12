@@ -1,0 +1,15 @@
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.AssemblyInfoInputs.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.AssemblyInfo.cs
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.sourcelink.json
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\bin\Debug\net8.0\InterfaceAutenticado.exe
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\bin\Debug\net8.0\InterfaceAutenticado.deps.json
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\bin\Debug\net8.0\InterfaceAutenticado.runtimeconfig.json
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\bin\Debug\net8.0\InterfaceAutenticado.dll
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\bin\Debug\net8.0\InterfaceAutenticado.pdb
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.dll
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\refint\InterfaceAutenticado.dll
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.pdb
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\InterfaceAutenticado.genruntimeconfig.cache
+C:\Users\aluno\Documents\POO261n---Kauan2\InterfaceAutenticado\obj\Debug\net8.0\ref\InterfaceAutenticado.dll
